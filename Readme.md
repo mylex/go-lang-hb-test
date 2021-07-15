@@ -20,8 +20,8 @@
     - Serve: For Start HTTP Server 
     - Port (optional): Server Port, Default: 8888
 
-### Test Build
-`go build main-test.go`
+### Test
+`go test ./app/handler/`
 
 
 
